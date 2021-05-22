@@ -171,7 +171,7 @@ nav{
     color: #fff;
     font-size: 17px;
     margin-top: 10px;
-    padding: 1px 20px 10px 20px!important;
+    padding: 1px 20px 10px 20px;
   }
   
   .container .icons{
@@ -328,3 +328,17 @@ h1{
   text-align: center;
   margin: 30px;
 }
+
+a{
+  margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
